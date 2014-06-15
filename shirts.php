@@ -1,5 +1,8 @@
 <?php 
 $products = array();
+$products[101] = array(
+	
+)
 $products[] = "Logo Shirt,Red";
 $products[] = "Mike the Frog Shirt, Black";
 $products[] = "Mike the Frog Shirt,Blue";
