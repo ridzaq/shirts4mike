@@ -1,5 +1,4 @@
 <?php
-
 $products = array();
 $products[101] = array(
 	"name" => "Logo Shirt, Red",
@@ -40,7 +39,7 @@ $products[108] = array(
     "img" => "img/shirts/shirt-108.jpg",    
     "price" => 25,
 );
->>>>>>> f944cb9404812ddd701102ce22e758ed2d915f9a
+
 
 ?><?php 
 $pageTitle = "Mike's Full Catalog of Shirts";
